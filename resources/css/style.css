@@ -477,10 +477,10 @@ left: 0;
 
 
 /*********************************************************************************/
-/* Welcome                                                                       */
+/* content                                                                       */
 /*********************************************************************************/
 
-	#welcome
+	#content
 	{
 		position: relative;
 		padding: 7em 0em 7em 0em;
@@ -489,14 +489,14 @@ left: 0;
 		text-align: center;
 	}
 
-	#welcome .container
+	#content .container
 	{
 		width: 1000px;
 		padding: 0px 100px;
 		color: rgba(255,255,255,0.8);
 	}
 
-	#welcome a
+	#content a
 	{
 		color: rgba(255,255,255,1);
 	}
